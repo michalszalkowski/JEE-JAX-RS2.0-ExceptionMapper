@@ -1,0 +1,7 @@
+curl -i -H GET http://localhost:8080/rest/shop/orders
+curl -i -H GET http://localhost:8080/rest/shop/orders/1
+curl -i -H GET http://localhost:8080/rest/shop/orders/exception
+
+base on:
+A Little REST with JAX-RS 2.0 and Java EE 7 by Adam Bien
+https://www.youtube.com/watch?v=1wEp9yHHtwg
